@@ -5,6 +5,6 @@
 
 Ниже пример кода из нашего приложения:
 
-```bash
+```css
 sudo apt-get install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
 ```
