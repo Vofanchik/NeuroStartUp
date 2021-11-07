@@ -5,9 +5,6 @@
 
 Ниже пример кода из нашего приложения:
 
-'''
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
-'''
+```bash
+sudo apt-get install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
+```
